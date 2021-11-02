@@ -7,7 +7,7 @@ body {
     display:flex;
     padding:10px;
     margin:10px;
-    background: gray;
+    background: lightblue;
 }
 
 .assignment img {
@@ -24,10 +24,6 @@ body {
 h1 {
     color:blue;
     text-align:center;
-}
-
-h1:hover {
-    color:white;
 }
 
 a {
